@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://cdn.discordapp.com/attachments/1144751848369180742/1144761706539667546/Sem_Titulo-1.png"  />
+<img align="left" width="1000" height="200" src="https://cdn.discordapp.com/attachments/1144751848369180742/1144761706539667546/Sem_Titulo-1.png"  />
 
 ###
 
