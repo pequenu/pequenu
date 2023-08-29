@@ -1,6 +1,7 @@
 ![Logo](https://cdn.discordapp.com/attachments/1144751848369180742/1144761706539667546/Sem_Titulo-1.png)
 
 # 👋 Hi 
+My name is Marcos Paulo, I'm 16 years old, born and raised in Rio de Janeiro, Brazil. I'm studying IT and I'm passionate about Web Design. Ever since I was little I've been interested in games, technology and things like that.
 
 # 💻 Knowledges:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cs,figma)](https://skills.thijs.gg)
