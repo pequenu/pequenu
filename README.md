@@ -3,4 +3,4 @@
 # 💻 Knowledges:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cs,figma)](https://skills.thijs.gg)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pequenu&show_icons=true&hide_border=true&bg_color=2D333B&text_color=22272E&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=pequenu&show_icons=true&hide_border=true&bg_color=2D333B&title_color=ffffff&text_color=d1d1d1&icon_color=d1d1d1&include_all_commits=false&count_private=false)
