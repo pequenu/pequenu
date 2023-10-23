@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/1144751848369180742/1144761706539667546/Sem_Titulo-1.png)
+![Logo](https://cdn.discordapp.com/attachments/1166028678732456017/1166028816204968026/Banner_GitHub.png?ex=6548fff5&is=65368af5&hm=13915a7ca64842a68fdea86cf07d7469e3d3137e55afcbf807adad3aee3da5f4&)
 
 ## 👋 Hi 
 My name is Marcos Paulo. I'm 17 years old and from Rio de Janeiro, Brazil. I'm currently studying IT and I'm really into web design. I've been fascinated by video games, technology, and similar things since I was young. I'll leave some of my ongoing projects available here.
