@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" height="180" src="https://i.ibb.co/JBcTkbH/imagem-2024-08-18-122514320.png"  />
-</div>
-
 ## 👋 Hi 
 My name is Marcos Paulo. I'm 18 years old and from Rio de Janeiro, Brazil. I'm currently studying IT and I'm really passionate about web design. I've been fascinated by video games, technology, and similar things since I was young. I'll leave some of my ongoing projects available here.
 
