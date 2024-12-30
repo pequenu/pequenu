@@ -1,5 +1,5 @@
 ## 👋 Hi 
-My name is Marcos Paulo. I'm 18 years old and from Rio de Janeiro, Brazil. I'm currently studying IT and I'm really passionate about web design. I've been fascinated by video games, technology, and similar things since I was young. I'll leave some of my ongoing projects available here.
+My name is Marcos, I'm 18 years old and born and raised in Rio de Janeiro. Currently I just finished my IT course. Here I will leave some of my projects that I do during my daily life.
 
 ## 💻 Knowledges:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,discordjs,figma,ps,c,cs,postgresql)](https://skillicons.dev)
